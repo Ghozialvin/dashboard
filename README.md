@@ -36,5 +36,3 @@ Berikut adalah contoh tampilan dashboard:
 ## 👨‍💻 Pengembang
 
 * Ghozi Alvin Karim
-
-```
